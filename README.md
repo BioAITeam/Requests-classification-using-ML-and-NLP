@@ -84,7 +84,7 @@ conda install xlrd
 ## Execution
 After installing all the Requirements, you must clone the repository using.
 ```
-git clone https://github.com/BioAITeam/Requirements-classification-using-ML-and-NLP.git
+git clone https://github.com/BioAITeam/Requests-classification-using-ML-and-NLP.git
 ```
 If you will use colab, upload the cloned folder to drive, then open the folder and run the notebook.
 
