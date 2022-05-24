@@ -4,6 +4,8 @@ Artificial Intelligence (AI) is one of the components recognized for its potenti
 ## Citing
 
 If you use our project for your research or if you find this paper and repository helpful, please consider citing the work.
+Cite the code: [![DOI](https://zenodo.org/badge/483448303.svg)](https://zenodo.org/badge/latestdoi/483448303)
+ 
 
 ## Folders
 
